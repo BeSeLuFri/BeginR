@@ -1,2 +1,2 @@
-# BeginR
-Two Day R-Intro
+# RforISG
+R Intro for ISG - May/June 2019
