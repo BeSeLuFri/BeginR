@@ -1,2 +1,2 @@
-# BeginnR
+# BeginR
 Two Day R-Intro
